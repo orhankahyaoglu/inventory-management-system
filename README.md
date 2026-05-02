@@ -69,9 +69,8 @@ Bu proje, **Laravel 10** ve **React.js (Vite)** kullanılarak geliştirilmiş mo
 
 <img width="1918" height="1018" alt="Ekran görüntüsü 2026-05-02 190647" src="https://github.com/user-attachments/assets/913118ae-3700-48f4-b7b8-52c69aefb286" />
 
-<img width="1919" height="1018" alt="Ekran görüntüsü 2026-05-02 184932" src="https://github.com/user-attachments/assets/ffd40b54-ad11-4db6-89ca-d289d95c8080" />
-
 <img width="1919" height="1009" alt="Ekran görüntüsü 2026-05-02 185020" src="https://github.com/user-attachments/assets/3d0de624-133b-4643-a5d3-8c0310607c3a" />
 
+<img width="1919" height="1018" alt="Ekran görüntüsü 2026-05-02 184932" src="https://github.com/user-attachments/assets/ffd40b54-ad11-4db6-89ca-d289d95c8080" />
 
 <img width="1919" height="1015" alt="Ekran görüntüsü 2026-05-02 184946" src="https://github.com/user-attachments/assets/e0a3f16f-851c-48d8-80e8-568f93d94e20" />
